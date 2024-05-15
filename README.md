@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @medzernik. I am a desktop developer with a focus on Rust.
-- 👀 I’m interested in programming, especially languages Rust and Go, where i spend a significant amount of my time during internships or jobs developing with.
-- 📫 How to reach me: you can contact me on GitHub.
+- 👋 Hi, I’m @medzernik. I am a Junior Software Engineer with a focus on Rust.
+- 👀 I’m interested in programming, especially languages Rust and Go, where i spend a significant amount of my time during professional work or internships developing with.
+- 📫 How to reach me: you can contact me through my GitHub e-mail.
